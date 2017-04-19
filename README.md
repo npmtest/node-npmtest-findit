@@ -1,4 +1,7 @@
-# test coverage for  [findit (v2.0.0)](https://github.com/substack/node-findit)  [![npm package](https://img.shields.io/npm/v/npmtest-findit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-findit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-findit.svg)](https://travis-ci.org/npmtest/node-npmtest-findit)
+# npmtest-findit
+
+#### test coverage for  [findit (v2.0.0)](https://github.com/substack/node-findit)  [![npm package](https://img.shields.io/npm/v/npmtest-findit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-findit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-findit.svg)](https://travis-ci.org/npmtest/node-npmtest-findit)
+
 #### walk a directory tree recursively with events
 
 [![NPM](https://nodei.co/npm/findit.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/findit)
