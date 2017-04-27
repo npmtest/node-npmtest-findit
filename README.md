@@ -1,6 +1,6 @@
 # npmtest-findit
 
-#### test coverage for  [findit (v2.0.0)](https://github.com/substack/node-findit)  [![npm package](https://img.shields.io/npm/v/npmtest-findit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-findit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-findit.svg)](https://travis-ci.org/npmtest/node-npmtest-findit)
+#### basic test coverage for  [findit (v2.0.0)](https://github.com/substack/node-findit)  [![npm package](https://img.shields.io/npm/v/npmtest-findit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-findit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-findit.svg)](https://travis-ci.org/npmtest/node-npmtest-findit)
 
 #### walk a directory tree recursively with events
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-findit/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-findit/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-findit/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-findit/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-findit/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-findit/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-findit/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-findit/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-findit/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-findit/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-findit/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-findit/build/coverage.html/index.html)
 
@@ -79,7 +79,8 @@
     "scripts": {
         "test": "tap test/*.js"
     },
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "bin": {}
 }
 ```
 
